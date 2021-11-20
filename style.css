@@ -7,8 +7,11 @@ p
   font-size: 12px;
   line-height: 10px;
   background-image: url("grace.jpg");
+  max-width: 100%;
+  height: auto;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
+  background-position: center;
  -webkit-text-fill-color: rgba(255,255,255,0);
  -webkit-background-clip: text;
 }

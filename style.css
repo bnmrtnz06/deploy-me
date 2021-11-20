@@ -1,0 +1,14 @@
+body
+{
+  background: #000;
+}
+p
+{
+  font-size: 12px;
+  line-height: 10px;
+  background-image: url("grace.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ -webkit-text-fill-color: rgba(255,255,255,0);
+ -webkit-background-clip: text;
+}

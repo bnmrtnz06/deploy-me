@@ -8,7 +8,7 @@ p
   text-align: justify;
   font-size: 12px;
   line-height: 10px;
-  background-image: url("grace.jpg");
+  background-image: url("secret.jpg");
   max-width: 100%;
   height: auto;
   background-repeat: no-repeat;
@@ -16,6 +16,7 @@ p
   background-position: center;
  -webkit-text-fill-color: rgba(255,255,255,0);
  -webkit-background-clip: text;
+
 }
 
 /* @media (max-width:375) and (max-height: 812) {

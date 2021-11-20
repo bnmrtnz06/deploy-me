@@ -4,6 +4,8 @@ body
 }
 p
 {
+  padding-right: 0;
+  text-align: justify;
   font-size: 12px;
   line-height: 10px;
   background-image: url("grace.jpg");
